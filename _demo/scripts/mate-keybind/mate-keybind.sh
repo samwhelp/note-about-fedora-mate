@@ -27,9 +27,9 @@ mod_mate_config_for_mouse_button_modifier () {
 	## ## Disable Super_L Open Menu
 	##
 
-	gsettings set com.linuxmint.mintmenu hot-key ''
-
 	#gsettings set com.solus-project.brisk-menu hot-key ''
+
+	#gsettings set com.linuxmint.mintmenu hot-key ''
 
 
 	##
@@ -216,7 +216,7 @@ mod_mate_config_for_keybind_custom () {
 
 	## ### Text Editor
 	dconf write /org/mate/desktop/keybindings/text-editor/name "'Text_Editor'"
-	dconf write /org/mate/desktop/keybindings/text-editor/action "'xed'"
+	dconf write /org/mate/desktop/keybindings/text-editor/action "'pluma'"
 	dconf write /org/mate/desktop/keybindings/text-editor/binding "'<Shift><Alt>e'"
 
 
