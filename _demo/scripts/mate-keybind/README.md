@@ -7,8 +7,8 @@
 
 ## Link
 
-* https://github.com/samwhelp/note-about-linuxmint-mate/blob/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
-* https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
+* https://github.com/samwhelp/note-about-fedora-mate/blob/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
+* https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
 
 
 
@@ -18,26 +18,26 @@
 > run
 
 ``` sh
-bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh)
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh)
 ```
 
 
 > or run
 
 ``` sh
-bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh -O - )
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh -O - )
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh -O - )"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh -O - )"
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh)"
+bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh)"
 ```

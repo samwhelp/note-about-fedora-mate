@@ -9,8 +9,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/note-about-linuxmint-mate/blob/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
-## * https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
+## * https://github.com/samwhelp/note-about-fedora-mate/blob/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
+## * https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-keybind/mate-keybind.sh
 ##
 
 

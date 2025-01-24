@@ -7,8 +7,8 @@
 
 ## Link
 
-* https://github.com/samwhelp/note-about-linuxmint-mate/blob/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh
-* https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh
+* https://github.com/samwhelp/note-about-fedora-mate/blob/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh
+* https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh
 
 
 
@@ -18,26 +18,26 @@
 > run
 
 ``` sh
-bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh)
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh)
 ```
 
 
 > or run
 
 ``` sh
-bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh -O - )
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh -O - )
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh -O - )"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh -O - )"
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-linuxmint-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh)"
+bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-fedora-mate/refs/heads/gh-pages/_demo/scripts/mate-adjustment/mate-adjustment.sh)"
 ```
